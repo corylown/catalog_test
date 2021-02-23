@@ -1,0 +1,10 @@
+en:
+  catalog_test_search:
+    display_name: "Catalog Test Module"
+    short_display_name: "catalog"
+    search_form_placeholder: "Search Catalog Test"
+    module_callout: "Search Catalog Test"
+    error_service_message: "searching Catalog Test"
+    no_results_service_message: "a different search"
+    no_results_link: "https://find.library.duke.edu/"
+    loaded_link: "https://find.library.duke.edu/?q="
